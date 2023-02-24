@@ -18,6 +18,8 @@ It costs **`45000`** water.
 
 Chests can be purchased at **`Backwater Bodgea`** shops.
 
+[You can download it here](https://github.com/SleeepMaster/SteamWorld-Heist-Additional-Storage/releases/download/v1.0.0/mod_additional_storage.rar).
+
 # INSTALLATION
 
 ### ***WARNING! ONCE YOU INSTALL THIS MOD YOU WON'T BE ABLE TO LOAD YOUR SAVE WITHOUT IT, SO MAKE SURE TO MAKE A COPY OF YOUR SAVE FILES.***
