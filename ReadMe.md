@@ -10,7 +10,7 @@ There are 3 chests available to buy, one per act. They can increase overall inve
 Scrapper area has **`Wooden Chest`** that increases inventory size by **`10`**.
 It costs **`5000`** water.
 
-Royalist area has **`ron Chest`** that increases inventory size by **`20`**.
+Royalist area has **`Iron Chest`** that increases inventory size by **`20`**.
 It costs **`15000`** water.
 
 Vectron area has **`Golden Chest`** that increases inventory size by **`30`**.
